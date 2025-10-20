@@ -1,0 +1,127 @@
+
+         /\      Grafana   /‾‾/  
+    /\  /  \     |\  __   /  /   
+   /  \/    \    | |/ /  /   ‾‾\ 
+  /          \   |   (  |  (‾)  |
+ / __________ \  |_|\_\  \_____/ 
+
+     execution: local
+        script: .\script.js
+        output: -
+
+     scenarios: (100.00%) 1 scenario, 500 max VUs, 10m30s max duration (incl. graceful stop):
+              * fixed_iterations: 200 iterations for each of 500 VUs (maxDuration: 10m0s, gracefulStop: 30s)
+
+
+running (00m00.9s), 500/500 VUs, 1275 complete and 0 interrupted iterations
+fixed_iterations   [   1% ] 500 VUs  00m00.9s/10m0s  001275/100000 iters, 200 per VU
+
+running (00m01.9s), 500/500 VUs, 1896 complete and 0 interrupted iterations
+fixed_iterations   [   2% ] 500 VUs  00m01.9s/10m0s  001896/100000 iters, 200 per VU
+
+running (00m02.9s), 500/500 VUs, 3429 complete and 0 interrupted iterations
+fixed_iterations   [   3% ] 500 VUs  00m02.9s/10m0s  003429/100000 iters, 200 per VU
+
+running (00m04.0s), 500/500 VUs, 5299 complete and 0 interrupted iterations
+fixed_iterations   [   5% ] 500 VUs  00m04.0s/10m0s  005299/100000 iters, 200 per VU
+
+running (00m04.9s), 500/500 VUs, 7164 complete and 0 interrupted iterations
+fixed_iterations   [   7% ] 500 VUs  00m04.9s/10m0s  007164/100000 iters, 200 per VU
+
+running (00m05.9s), 500/500 VUs, 9527 complete and 0 interrupted iterations
+fixed_iterations   [  10% ] 500 VUs  00m05.9s/10m0s  009527/100000 iters, 200 per VU
+
+running (00m06.9s), 500/500 VUs, 13001 complete and 0 interrupted iterations
+fixed_iterations   [  13% ] 500 VUs  00m06.9s/10m0s  013001/100000 iters, 200 per VU
+
+running (00m07.9s), 500/500 VUs, 15575 complete and 0 interrupted iterations
+fixed_iterations   [  16% ] 500 VUs  00m07.9s/10m0s  015575/100000 iters, 200 per VU
+
+running (00m09.0s), 500/500 VUs, 18778 complete and 0 interrupted iterations
+fixed_iterations   [  19% ] 500 VUs  00m09.0s/10m0s  018778/100000 iters, 200 per VU
+
+running (00m09.9s), 500/500 VUs, 23145 complete and 0 interrupted iterations
+fixed_iterations   [  23% ] 500 VUs  00m09.9s/10m0s  023145/100000 iters, 200 per VU
+
+running (00m10.9s), 500/500 VUs, 27935 complete and 0 interrupted iterations
+fixed_iterations   [  28% ] 500 VUs  00m10.9s/10m0s  027935/100000 iters, 200 per VU
+
+running (00m12.0s), 500/500 VUs, 32885 complete and 0 interrupted iterations
+fixed_iterations   [  33% ] 500 VUs  00m12.0s/10m0s  032885/100000 iters, 200 per VU
+
+running (00m12.9s), 500/500 VUs, 38848 complete and 0 interrupted iterations
+fixed_iterations   [  39% ] 500 VUs  00m12.9s/10m0s  038848/100000 iters, 200 per VU
+
+running (00m13.9s), 500/500 VUs, 42294 complete and 0 interrupted iterations
+fixed_iterations   [  42% ] 500 VUs  00m13.9s/10m0s  042294/100000 iters, 200 per VU
+
+running (00m14.9s), 500/500 VUs, 44783 complete and 0 interrupted iterations
+fixed_iterations   [  45% ] 500 VUs  00m14.9s/10m0s  044783/100000 iters, 200 per VU
+
+running (00m15.9s), 500/500 VUs, 47407 complete and 0 interrupted iterations
+fixed_iterations   [  47% ] 500 VUs  00m15.9s/10m0s  047407/100000 iters, 200 per VU
+
+running (00m16.9s), 500/500 VUs, 50450 complete and 0 interrupted iterations
+fixed_iterations   [  50% ] 500 VUs  00m16.9s/10m0s  050450/100000 iters, 200 per VU
+
+running (00m17.9s), 500/500 VUs, 56093 complete and 0 interrupted iterations
+fixed_iterations   [  56% ] 500 VUs  00m17.9s/10m0s  056093/100000 iters, 200 per VU
+
+running (00m18.9s), 500/500 VUs, 61592 complete and 0 interrupted iterations
+fixed_iterations   [  62% ] 500 VUs  00m18.9s/10m0s  061593/100000 iters, 200 per VU
+
+running (00m19.9s), 500/500 VUs, 67072 complete and 0 interrupted iterations
+fixed_iterations   [  67% ] 500 VUs  00m19.9s/10m0s  067072/100000 iters, 200 per VU
+
+running (00m20.9s), 500/500 VUs, 71050 complete and 0 interrupted iterations
+fixed_iterations   [  71% ] 500 VUs  00m20.9s/10m0s  071050/100000 iters, 200 per VU
+
+running (00m21.9s), 500/500 VUs, 75696 complete and 0 interrupted iterations
+fixed_iterations   [  76% ] 500 VUs  00m21.9s/10m0s  075696/100000 iters, 200 per VU
+
+running (00m22.9s), 495/500 VUs, 82370 complete and 0 interrupted iterations
+fixed_iterations   [  82% ] 500 VUs  00m22.9s/10m0s  082370/100000 iters, 200 per VU
+
+running (00m23.9s), 383/500 VUs, 88328 complete and 0 interrupted iterations
+fixed_iterations   [  88% ] 500 VUs  00m23.9s/10m0s  088328/100000 iters, 200 per VU
+
+running (00m24.9s), 312/500 VUs, 91616 complete and 0 interrupted iterations
+fixed_iterations   [  92% ] 500 VUs  00m24.9s/10m0s  091616/100000 iters, 200 per VU
+
+running (00m25.9s), 276/500 VUs, 94870 complete and 0 interrupted iterations
+fixed_iterations   [  95% ] 500 VUs  00m25.9s/10m0s  094870/100000 iters, 200 per VU
+
+running (00m26.9s), 188/500 VUs, 97723 complete and 0 interrupted iterations
+fixed_iterations   [  98% ] 500 VUs  00m26.9s/10m0s  097723/100000 iters, 200 per VU
+
+
+  █ TOTAL RESULTS 
+
+    checks_total.......: 100000 3611.991559/s
+    checks_succeeded...: 99.73% 99739 out of 100000
+    checks_failed......: 0.26%  261 out of 100000
+
+    ✗ status is 200
+      ↳  99% — ✓ 99739 / ✗ 261
+
+    HTTP
+    http_req_duration..............: avg=118.12ms min=0s     med=88.92ms max=5.95s p(90)=195.52ms p(95)=254.37ms
+      { expected_response:true }...: avg=114.93ms min=1.95ms med=88.99ms max=4.97s p(90)=195.17ms p(95)=253.31ms
+    http_req_failed................: 0.26%  261 out of 100000
+    http_reqs......................: 100000 3611.991559/s
+
+    EXECUTION
+    iteration_duration.............: avg=127.16ms min=1.95ms med=91.13ms max=8.28s p(90)=202.89ms p(95)=263.82ms
+    iterations.....................: 100000 3611.991559/s
+    vus............................: 188    min=188           max=500
+    vus_max........................: 500    min=500           max=500
+
+    NETWORK
+    data_received..................: 13 MB  450 kB/s
+    data_sent......................: 14 MB  490 kB/s
+
+
+
+
+running (00m27.7s), 000/500 VUs, 100000 complete and 0 interrupted iterations
+fixed_iterations ✓ [ 100% ] 500 VUs  00m27.7s/10m0s  100000/100000 iters, 200 per VU
